@@ -1,2 +1,2 @@
-# a-tech
+# ATech
 A Linux distro built by a forum.
